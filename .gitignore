@@ -8,3 +8,6 @@ Awesomium.framework
 #Xcode
 *.pbxuser
 *.mode1v3
+
+*.app
+*build

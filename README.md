@@ -7,5 +7,19 @@ clone the repository into the openFrameworks addons directory.
 ```
 $ git clone git@github.com:WrongEntertainment/ofxAwesomium.git
 ```
-download the awesomium framework. (tested version: 1.6.5)  
+download the awesomium framework.  
 http://awesomium.com/download/  
+add awesomium framework to repository root directory.  
+
+OSX users:  You'll need to put this into project settings > Build Phases > Run Script  
+It will copy the Awesomium.framework into the application bundle.  
+```
+cp -r "$TARGET_BUILD_DIR/../Awesomium.framework" "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Frameworks/"
+```
+  
+**Tested Frameworks**  
+awesomium framework version 1.6.5  
+openFrameworks version 0073  
+
+**Tested Platforms**  
+Mac OS 10.7  
