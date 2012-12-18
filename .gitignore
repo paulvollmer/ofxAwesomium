@@ -1,0 +1,10 @@
+
+*.DS_Store
+
+
+Awesomium.framework
+
+
+#Xcode
+*.pbxuser
+*.mode1v3
