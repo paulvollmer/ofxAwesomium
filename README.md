@@ -1,6 +1,7 @@
 #ofxAwesomium#
 how to use [awesomium](http://awesomium.com/) framework with openFrameworks.  
 this is not an addon, it is a collection of examples. everyone is invited to add new awesomiumish examples.  
+inspired by Jeff Crouse [CodeForArt awesomiumExample](https://github.com/jefftimesten/CodeForArt/tree/master/Chapter011-web/020-awesomiumExample).  
 
 **Install**  
 clone the repository into the openFrameworks addons directory.
