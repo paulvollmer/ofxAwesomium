@@ -24,3 +24,7 @@ openFrameworks version 0073
 
 **Tested Platforms**  
 Mac OS 10.7  
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/WrongEntertainment/ofxawesomium/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
