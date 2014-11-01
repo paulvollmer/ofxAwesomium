@@ -6,7 +6,7 @@ inspired by Jeff Crouse [CodeForArt awesomiumExample](https://github.com/jefftim
 **Install**  
 clone the repository into the openFrameworks addons directory.
 ```
-$ git clone git@github.com:WrongEntertainment/ofxAwesomium.git
+$ git clone git@github.com:paulvollmer/ofxAwesomium.git
 ```
 download the awesomium framework.  
 http://awesomium.com/download/  
@@ -24,7 +24,3 @@ openFrameworks version 0073
 
 **Tested Platforms**  
 Mac OS 10.7  
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/WrongEntertainment/ofxawesomium/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
